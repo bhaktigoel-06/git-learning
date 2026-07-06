@@ -1,0 +1,2 @@
+Name: Bhakti Goel
+Goal: Learn Git and GitHub
